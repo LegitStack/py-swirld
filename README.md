@@ -15,7 +15,8 @@ It seems to work as intended to me but don't take it for granted!
 - python3 (obviously!)
 - [pysodium](https://pypi.python.org/pypi/pysodium) for the crypto
 - [bokeh](http://bokeh.pydata.org/en/latest/) for the analysis and interactive
-  visualization
+  visualization. Version 0.12.0
+- tornado version 4.3
 
 ## Usage / High-level explainations
 
